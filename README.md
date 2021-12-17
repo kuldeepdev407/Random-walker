@@ -12,3 +12,7 @@ This is a simple random walker program where there is a pixel is moving here and
 - Now build and run
 - It will create a folder in for build go to your sfml library bin folder and copy files like ending 2-d.dll and openal32.dll
 - Now build and run This time it will run
+
+### Output
+
+![output image](https://github.com/Kuldeep800singh/Random-walker/blob/main/screenshot/output.png?raw=true)
