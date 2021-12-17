@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(RandomWalker VERSION 1.0.0)
+include_directories(F:/Externallib/SFML-2.5.1-windows-vc15-64-bit/SFML-2.5.1/include)
+link_directories(F:/Externallib/SFML-2.5.1-windows-vc15-64-bit/SFML-2.5.1/lib)
+add_executable(Spring src/main.cpp)
+target_link_libraries(Spring debug sfml-graphics-d.lib sfml-window-d.lib sfml-system-d.lib)
