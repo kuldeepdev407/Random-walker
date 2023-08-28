@@ -15,4 +15,4 @@ This is a simple random walker program where there is a pixel is moving here and
 
 ### Output
 
-![output image](https://github.com/Kuldeep800singh/Random-walker/blob/main/screenshot/output.png?raw=true)
+![output image](https://github.com/kuldeepdev407/Random-walker/blob/main/screenshot/output.png?raw=true)
